@@ -1,0 +1,62 @@
+## What is a Prompt?
+
+A prompt is the instruction, question, command, or request that you give to an AI tool in order to get a response.
+
+It tells the AI what you want, how you want the answer, and sometimes who the answer is for.
+
+A prompt can be:
+- A simple question
+- A detailed instruction
+- A request for explanation
+- A role-based command
+- A creative task
+- A step-by-step query
+
+Example:
+
+"Explain Python loops for beginners."
+
+In this prompt:
+- Task = Explain
+- Topic = Python loops
+- Audience = Beginners
+
+Because the prompt clearly mentions the topic and audience, the AI can generate a simple and beginner-friendly answer.
+
+Another example:
+
+Weak Prompt:
+"Tell me about loops."
+
+Problem:
+- The AI does not know which type of loops
+- The AI does not know whether you want examples, definitions, or coding syntax
+- The answer may be too broad or confusing
+
+Better Prompt:
+"Explain Python for loops and while loops for beginners with simple examples."
+
+This prompt is better because it:
+- Clearly mentions the programming language
+- Mentions the exact topic
+- Mentions the audience
+- Requests examples
+
+A prompt can also include:
+- Output format
+- Tone
+- Length
+- Level of detail
+
+Example:
+
+"Explain Python loops for beginners in 5 bullet points with simple examples."
+
+In this prompt:
+- Topic = Python loops
+- Audience = Beginners
+- Format = Bullet points
+- Tone = Simple
+- Detail = Examples included
+
+The more clear and specific the prompt is, the better and more useful the AI response will be.
