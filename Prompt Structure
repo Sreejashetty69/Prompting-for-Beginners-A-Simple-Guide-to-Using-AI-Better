@@ -1,0 +1,72 @@
+## Formula for a Good Prompt
+
+A good prompt usually follows this formula:
+
+Task + Topic + Context + Format + Tone
+
+### 1. Task
+This tells the AI what action to perform.
+
+Examples:
+- Explain
+- Write
+- Summarize
+- Compare
+- Generate
+- List
+
+### 2. Topic
+This tells the AI what the prompt is about.
+
+Examples:
+- Python loops
+- Communication skills
+- Climate change
+- Machine learning
+- Time management
+
+### 3. Context
+This gives extra information about who the answer is for or what situation it is related to.
+
+Examples:
+- For beginners
+- For college students
+- For school children
+- For interview preparation
+- For a professional email
+
+### 4. Format
+This tells the AI how you want the response.
+
+Examples:
+- Bullet points
+- Table
+- Paragraph
+- Step-by-step explanation
+- Email format
+- Short summary
+
+### 5. Tone
+This tells the AI how the answer should sound.
+
+Examples:
+- Simple
+- Formal
+- Professional
+- Friendly
+- Detailed
+- Academic
+
+## Example
+
+Prompt:
+
+"Explain Python loops for beginners in 5 bullet points with simple examples."
+
+Breakdown:
+
+- Task = Explain
+- Topic = Python loops
+- Context = For beginners
+- Format = 5 bullet points
+- Tone = Simple
