@@ -1,0 +1,67 @@
+# Weak Prompt vs Better Prompt
+
+## Example 1
+
+Weak Prompt:
+
+"Tell me about Java."
+
+Problem:
+- Too broad
+- Does not mention what part of Java is needed
+- No format or audience is mentioned
+
+Better Prompt:
+
+"Explain classes and objects in Java for beginners with simple examples."
+
+Why It Is Better:
+- Mentions the exact topic
+- Mentions the audience
+- Requests examples
+- Gives a more focused response
+
+---
+
+## Example 2
+
+Weak Prompt:
+
+"Help me study."
+
+Problem:
+- Too vague
+- Does not mention the subject or topic
+- No output format is mentioned
+
+Better Prompt:
+
+"Give me 10 important questions on computer networks with short answers."
+
+Why It Is Better:
+- Mentions the topic clearly
+- Mentions the format
+- Gives a more useful response
+
+---
+
+## Example 3
+
+Weak Prompt:
+
+"Write an email."
+
+Problem:
+- Does not mention the purpose of the email
+- No tone or format is mentioned
+- Too general
+
+Better Prompt:
+
+"Write a professional leave email for a student who is sick for 2 days."
+
+Why It Is Better:
+- Clearly mentions the purpose
+- Mentions the audience
+- Mentions the tone
+- Gives a more specific response
