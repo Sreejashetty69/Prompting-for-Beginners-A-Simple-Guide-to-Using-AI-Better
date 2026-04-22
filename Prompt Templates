@@ -1,0 +1,49 @@
+# Prompt Templates
+
+## Template 1
+
+"Explain [topic] for [audience] in [format] with [details/examples]."
+
+Example:
+
+"Explain cybersecurity for beginners in bullet points with examples."
+
+---
+
+## Template 2
+
+"Write a [type of content] about [topic] in a [tone] tone."
+
+Example:
+
+"Write a professional email about leave request in a polite tone."
+
+---
+
+## Template 3
+
+"Give me [number] [type of output] on [topic] for [purpose]."
+
+Example:
+
+"Give me 10 interview questions on Python for freshers."
+
+---
+
+## Template 4
+
+"Act as a [role] and help me with [task]."
+
+Example:
+
+"Act as an HR interviewer and ask me common interview questions."
+
+---
+
+## Template 5
+
+"Create a [plan/schedule/list] for [person/audience] with [requirements]."
+
+Example:
+
+"Create a daily study timetable for a college student with 2 hours for coding practice."
